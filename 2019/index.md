@@ -2,7 +2,7 @@
 
 ---
 
-* Student #0 - aaaa, bbbb, cccc, dddd
+* Student #0 - aaaa, bbbb, cccc, dddd, aaaa, bbbb, cccc, dddd, cccc, dddd
 * Student #1
 * Student #2
 * Student #3
