@@ -12,8 +12,8 @@
 
 ---
 
-[Maykin W.](https://gitlab.com/NEIS0736/2019/wikis/Maykin-Warasart)
-* *Siraphum P.*, *Pemika L.*, *Angkarn P.*
+**[Maykin W.](https://gitlab.com/NEIS0736/2019/wikis/Maykin-Warasart)**
+* *Siraphum P.*, *Pemika L.* *&* *Angkarn P.*
 
 ---
 
