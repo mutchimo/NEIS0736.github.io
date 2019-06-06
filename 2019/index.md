@@ -1,18 +1,16 @@
 ## Welcome to NEIS0736 (2019)!
 
-Student #1
-
-Student #2
-
-Student #3
-
-Student #4
-
-Student #5
-
-Student #5
+* Student #1
+* Student #2
+* Student #3
+* Student #4
+* Student #5
+* Student #6
 
 [Maykin W.](https://gitlab.com/NEIS0736/2019/wikis/Maykin-Warasart)
+* *TA1*
+* *TA2*
+* *TA3*
 
 [Day 1] June 8, 2019
 *  Laptop with internet access
