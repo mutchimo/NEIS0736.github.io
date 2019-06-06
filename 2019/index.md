@@ -28,9 +28,9 @@
 
 [Day 4] - (Sat) **Jun 29, 2019**
 
-[Day 5] - **(Sun) Jun 30** *or* **(Sat) Oct 5**
+[Day 5] - (Sat) **Jul 13** 
 
-[Day 6] - (Sat) **Jul 13** 
+[Day 6] - (***Sun***) **Jul 14**
 
 [Day 7] - (Sat) **Jul 20** 
 
