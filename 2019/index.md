@@ -12,9 +12,7 @@
 ---
 
 [Maykin W.](https://gitlab.com/NEIS0736/2019/wikis/Maykin-Warasart)
-* *TA1*
-* *TA2*
-* *TA3*
+* *TA1*, *TA2*, *TA3*
 
 ---
 
