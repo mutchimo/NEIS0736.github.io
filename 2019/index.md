@@ -23,13 +23,11 @@
 *  Your favorite IDE/text editor
 
 [Day 2] - (Sat) June 15, 2019
-*  ???
 
 [Day 3] - (Sat) June 22, 2019
-*  ???
 
 [Day 4] - (Sat) June 29, 2019
-*  ???
+
 
 
 You can use the [editor on GitHub](https://github.com/NEIS0736/NEIS0736.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
