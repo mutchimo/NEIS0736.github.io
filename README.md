@@ -3,7 +3,7 @@
 [[**2019**](2019)]
 * Time : **9:00 - 12:00** (*Sat*)
 * Room : **MII207B** (*MII Bldg.*)
-* [KBs](https://gitlab.com/NEIS0736/2019/wikis/)
+* [KBs](https://gitlab.com/NEIS0736/2019/wikis/README)
 
 [[**2018**](http://msit.mut.ac.th/neis0736)]
 * Time : **9:00 - 12:00** (*Sun*)
