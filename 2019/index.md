@@ -18,40 +18,40 @@
 
 ---
 
-[Day 1] - (Sat) June 8, 2019
+[Day 1] - (Sat) **Jun 8, 2019**
 *  Laptop with internet access
 *  Your favorite IDE/text editor
 *  Active email account (gmail is preferable)
 
-[Day 2] - (Sat) Jun 15, 2019
+[Day 2] - (Sat) **Jun 15, 2019**
 
-[Day 3] - (Sat) Jun 22, 2019
+[Day 3] - (Sat) **Jun 22, 2019**
 
-[Day 4] - (Sat) Jun 29, 2019
+[Day 4] - (Sat) **Jun 29, 2019**
 
-[Day 5] - (Sun) Jun 30 or (Sat) Oct 5
+[Day 5] - (Sun) **Jun 30** *or* **(Sat) Oct 5**
 
-[Day 6] - (Sat) Jul 13 
+[Day 6] - (Sat) **Jul 13** 
 
-[Day 7] - (Sat) Jul 20 
+[Day 7] - (Sat) **Jul 20** 
 
-[Semi-final Exam] - (Sat) Aug 3 (Lec + Lab)
+[Semi-final Exam] - (Sat) **Aug 3** (*Lec + Lab*)
 
-[Day 8] - (Sat) Aug 10
+[Day 8] - (Sat) **Aug 10**
 
-[Day 9] - (Sat) Aug 17
+[Day 9] - (Sat) **Aug 17**
 
-[Day 10] - (Sat) Aug 24
+[Day 10] - (Sat) **Aug 24**
 
-[Day 11] - (Sat) Aug 31
+[Day 11] - (Sat) **Aug 31**
 
-[Day 12] - (Sat) Sep 7
+[Day 12] - (Sat) **Sep 7**
 
-[Day 13] - (Sat) Sep 14
+[Day 13] - (Sat) **Sep 14**
 
-[Day 14] - (Sat) Sep 21
+[Day 14] - (Sat) **Sep 21**
 
-[Day 15] - (Sat) Sep 28
+[Day 15] - (Sat) **Sep 28**
 
 
 
