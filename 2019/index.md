@@ -21,6 +21,7 @@
 [Day 1] - (Sat) June 8, 2019
 *  Laptop with internet access
 *  Your favorite IDE/text editor
+*  Active email account (gmail is preferable)
 
 [Day 2] - (Sat) June 15, 2019
 
