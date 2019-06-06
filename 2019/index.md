@@ -2,13 +2,13 @@
 
 ---
 
-* Student #0 - aaaa, bbbb, cccc, dddd, aaaa, bbbb, cccc, dddd, cccc, dddd
-* Student #1
-* Student #2
-* Student #3
-* Student #4
-* Student #5
-* Student #6
+* **Student #0** - (aaaa), (bbbb), (cccc), (dddd), (aaaa), (bbbb), (cccc), (dddd), (cccc), (dddd), (dddd), (cccc), (dddd)
+* **Student #1**
+* **Student #2**
+* **Student #3**
+* **Student #4**
+* **Student #5**
+* **Student #6**
 
 ---
 
