@@ -9,6 +9,7 @@
 * **Student #4**
 * **Student #5**
 * **Student #6**
+* **Student #7**
 
 ---
 
