@@ -14,7 +14,9 @@ Student #5
 
 [Maykin W.](https://gitlab.com/NEIS0736/2019/wikis/Maykin-Warasart)
 
-.
+[Day 1] June 8, 2019
+*  Laptop with internet access
+*  Your favorite IDE/text editor
 
 .
 
